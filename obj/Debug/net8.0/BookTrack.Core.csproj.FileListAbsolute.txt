@@ -1,0 +1,14 @@
+C:\Projects\BookTrack.Core\obj\Debug\net8.0\BookTrack.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BookTrack.Core\obj\Debug\net8.0\BookTrack.Core.AssemblyInfoInputs.cache
+C:\Projects\BookTrack.Core\obj\Debug\net8.0\BookTrack.Core.AssemblyInfo.cs
+C:\Projects\BookTrack.Core\obj\Debug\net8.0\BookTrack.Core.csproj.CoreCompileInputs.cache
+C:\Projects\BookTrack.Core\bin\Debug\net8.0\BookTrack.Core.deps.json
+C:\Projects\BookTrack.Core\bin\Debug\net8.0\BookTrack.Core.dll
+C:\Projects\BookTrack.Core\bin\Debug\net8.0\BookTrack.Core.pdb
+C:\Projects\BookTrack.Core\obj\Debug\net8.0\BookTrack.Core.dll
+C:\Projects\BookTrack.Core\obj\Debug\net8.0\refint\BookTrack.Core.dll
+C:\Projects\BookTrack.Core\obj\Debug\net8.0\BookTrack.Core.pdb
+C:\Projects\BookTrack.Core\obj\Debug\net8.0\ref\BookTrack.Core.dll
+C:\Projects\BookTrack.Core\bin\Debug\net8.0\BookTrack.Core.exe
+C:\Projects\BookTrack.Core\bin\Debug\net8.0\BookTrack.Core.runtimeconfig.json
+C:\Projects\BookTrack.Core\obj\Debug\net8.0\BookTrack.Core.genruntimeconfig.cache
