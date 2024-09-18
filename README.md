@@ -49,8 +49,4 @@ Este projeto é um **sistema de controle de estoque** desenvolvido em **C#**, qu
 
 Se você quiser contribuir com melhorias ou correções, sinta-se à vontade para abrir um pull request. Toda ajuda é bem-vinda!
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
